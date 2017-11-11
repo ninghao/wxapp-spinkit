@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/spinkit/bounce3"
+  ],
+  "window": {
+    "navigationBarTitleText": "ninghao.net",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#ededed"
+  },
+  "debug": false
+}
